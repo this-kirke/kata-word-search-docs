@@ -1,0 +1,7 @@
+<map id="Word Search" name="Word Search">
+<area shape="rect" id="node1" href="$group__word__search____grid__entry.html" title="WordSearch__GridEntry" alt="" coords="164,5,327,32"/>
+<area shape="rect" id="node3" href="$group__word__search____direction.html" title="WordSearch__Direction" alt="" coords="165,56,325,83"/>
+<area shape="rect" id="node4" href="$group__word__search____grid.html" title="WordSearch__Grid" alt="" coords="179,107,311,133"/>
+<area shape="rect" id="node5" href="$group__word__search____word__solution.html" title="WordSearch__WordSolution" alt="" coords="152,157,339,184"/>
+<area shape="rect" id="node6" href="$group__word__search____puzzle.html" title="WordSearch__Puzzle" alt="" coords="171,208,319,235"/>
+</map>

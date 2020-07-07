@@ -5,7 +5,8 @@ var NAVTREE =
     [ "About", "about.html", null ],
     [ "Development Journal", "development_journal.html", null ],
     [ "Time Keeping", "time_keeping.html", null ],
-    [ "License", "license.html", null ]
+    [ "License", "license.html", null ],
+    [ "API Reference", "modules.html", "modules" ]
   ] ]
 ];
 

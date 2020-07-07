@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['development_20journal',['Development Journal',['../development_journal.html',1,'index']]]
+  ['begin_5fdeclarations',['BEGIN_DECLARATIONS',['../group__macros.html#ga1ad439e9f499b2b90643d1d562aeeed0',1,'macros.h']]]
 ];
