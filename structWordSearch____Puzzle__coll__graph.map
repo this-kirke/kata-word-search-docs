@@ -1,4 +1,0 @@
-<map id="WordSearch__Puzzle" name="WordSearch__Puzzle">
-<area shape="rect" id="node2" href="$structWordSearch____Grid.html" title="This structure contains metadata describing the grid, such as its width and height, as well as a pointer to a Slice containing all of the grid&#39;s entries. " alt="" coords="101,95,233,121"/>
-<area shape="rect" id="node3" href="$structSlice.html" title="Slice" alt="" coords="33,5,83,32"/>
-</map>

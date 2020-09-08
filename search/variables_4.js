@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['height',['height',['../group__word__search____grid.html#gae78742be7cb35ef081ce1ae2478f2c11',1,'WordSearch__Grid']]]
+  ['magnitude_99',['magnitude',['../structWordSearch____GridVector.html#a62da76c1488e055474caa79927ce51e5',1,'WordSearch__GridVector']]]
 ];

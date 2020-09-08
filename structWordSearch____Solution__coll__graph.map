@@ -1,0 +1,6 @@
+<map id="WordSearch__Solution" name="WordSearch__Solution">
+<area shape="rect" id="node1" title=" " alt="" coords="143,184,310,211"/>
+<area shape="rect" id="node2" href="$structWordSearch____GridSequence.html" title=" " alt="" coords="125,95,328,121"/>
+<area shape="rect" id="node3" href="$structWordSearch____GridCoordinates.html" title="A structure which defines a location on the word search puzzle grid. Coordinates are zero&#45;indexed fro..." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node4" href="$structWordSearch____GridVector.html" title=" " alt="" coords="248,5,429,32"/>
+</map>

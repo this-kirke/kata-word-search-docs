@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['length',['length',['../group__slice.html#ga1e786827d9d28606670077c37a126791',1,'Slice']]],
-  ['license',['License',['../license.html',1,'index']]]
+  ['magnitude_13',['magnitude',['../structWordSearch____GridVector.html#a62da76c1488e055474caa79927ce51e5',1,'WordSearch__GridVector']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['grid',['grid',['../group__word__search____puzzle.html#ga70253971e471668fe2977d3774a944f1',1,'WordSearch__Puzzle']]]
+  ['height_10',['height',['../group__word__search____grid.html#ga0766524773cdbff8beece5716e1eabf6',1,'WordSearch__Grid']]]
 ];

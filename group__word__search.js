@@ -1,9 +1,8 @@
 var group__word__search =
 [
-    [ "WordSearch__Direction", "group__word__search____direction.html", "group__word__search____direction" ],
-    [ "WordSearch__Grid", "group__word__search____grid.html", "group__word__search____grid" ],
-    [ "WordSearch__GridEntry", "group__word__search____grid__entry.html", "group__word__search____grid__entry" ],
-    [ "WordSearch__Puzzle", "group__word__search____puzzle.html", "group__word__search____puzzle" ],
-    [ "WordSearch__WordSolution", "group__word__search____word__solution.html", "group__word__search____word__solution" ],
-    [ "say_hello", "group__word__search.html#ga2dced9f47f4024532bc72aeb0f06dce9", null ]
+    [ "word_search__find_word", "group__word__search.html#ga7df4a8b1933920412c7714b12bee177c", null ],
+    [ "word_search__find_word_in_direction__brute_force", "group__word__search.html#ga72d2fc72697fefdcfaa6512d948ddd02", null ],
+    [ "word_search__search", "group__word__search.html#gabe9996e5f4d89e53cfd7be59742720bd", null ],
+    [ "word_search__search__brute_force", "group__word__search.html#ga62bf9757c6df4941187a213605e53972", null ],
+    [ "word_search__search_in_direction__brute_force", "group__word__search.html#gaef4d10cd9ec55bcf203dd77ab34a2a21", null ]
 ];

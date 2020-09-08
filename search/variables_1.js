@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['data',['data',['../group__slice.html#ga0a34cdb3a48c2d71b36e6c8bdbb02a4f',1,'Slice']]],
-  ['direction',['direction',['../group__word__search____word__solution.html#ga88776987291c7541400d1d6d9266da7f',1,'WordSearch__WordSolution']]]
+  ['direction_95',['direction',['../structWordSearch____GridVector.html#a69c7c0e13e5242ed1894de0574f33d9b',1,'WordSearch__GridVector']]],
+  ['disposition_96',['disposition',['../group__word__search____solution.html#ga23a421ca6ae6424d8f87fd5d7dc3cf6d',1,'WordSearch__Solution']]]
 ];

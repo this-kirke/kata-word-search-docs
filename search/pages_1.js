@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['development_20journal',['Development Journal',['../development_journal.html',1,'index']]]
+  ['deprecated_20list_127',['Deprecated List',['../deprecated.html',1,'']]]
 ];

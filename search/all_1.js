@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['begin_5fdeclarations',['BEGIN_DECLARATIONS',['../group__macros.html#ga1ad439e9f499b2b90643d1d562aeeed0',1,'macros.h']]]
+  ['column_1',['column',['../structWordSearch____GridCoordinates.html#aa7d8c98e3b63203f576a430bcec016f3',1,'WordSearch__GridCoordinates']]]
 ];
